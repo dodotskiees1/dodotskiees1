@@ -1,4 +1,4 @@
-Hello i am your newbie proggrammer
+Hello i am your junior programmer
 
 
 <!---
