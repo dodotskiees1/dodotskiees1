@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 I’m currently working as a **Back-End Developer Intern** at Support Zebra  
+- 💼 I’m currently working as a **Back-End Developer**
 - 🔭 I’m building API services using **TypeScript**, **Express**, and **MySQL**  
 - ⚙️ I love working with **Node.js**, **Prisma ORM**, and **RESTful APIs**  
 - 🧠 I’m currently learning **Docker**, **Redis**, and **GraphQL**  
@@ -57,10 +57,10 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yourusername/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:ivanubanan24.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ivan-carl-ubanan-732024353/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
